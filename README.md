@@ -1,5 +1,5 @@
 # jax-smallpt
-inspired by numpy-smallpt
+TPU-accelerated path tracer, inspired by numpy-smallpt and smallpt.
 
 ## Notices
 This is not an officially supported Google product.
